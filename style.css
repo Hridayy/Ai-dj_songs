@@ -1,0 +1,28 @@
+#dj{
+    background-color: orange;
+    margin-top: 0%;
+    color: aliceblue;
+    padding-top: 15px;
+    padding-bottom: 15px;    
+    }
+    #note{
+    font-size:15px;
+    color: black;
+    }
+    #disc1{
+        height: 200px;
+        width: 200px;
+        border-radius: 100px;
+    }
+    #disc2{
+        height: 200px;
+        width: 200px;
+        border-radius: 100px; 
+    }
+    #right_disc{
+     float: right;   
+    }
+    #left_disc{
+        float:left;
+    }
+    
