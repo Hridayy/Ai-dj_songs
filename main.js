@@ -21,7 +21,6 @@ function draw() {
 }
 function play() {
     song.play();
-    song.setVolume(1);
 
 }
 function modelLoaded() {
